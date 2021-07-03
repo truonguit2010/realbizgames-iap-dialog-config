@@ -2,4 +2,4 @@
 - Build a simple mechanic to control IAP dialog suggestion.
 
 
-!(Google Sheet Format Sample)[/Samples~/Google_Sheet_Format_Sample.png]
+![Google Sheet Format Sample](/Samples~/Google_Sheet_Format_Sample.png)
